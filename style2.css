@@ -1,0 +1,63 @@
+/*body,
+html {
+  width: 100%;
+  height: 100%;
+}*/
+
+body {
+  font-family: 'Montserrat', sans-serif;
+	background-color: #DFDFDF;
+	margin: 30px 100px;
+}
+
+.launchh1 {
+	font-weight: bold;
+	position: relative;
+	display: flex;
+	padding: 20px;
+
+}
+
+.btn-dark {
+	background-color: #564B4B;
+	color: white;
+	cursor: pointer;
+}
+
+.btn-dark:hover {
+	background-color: black;
+}
+
+.btn-primary {
+	cursor: pointer;
+}
+
+.email, .firstname, .lastname, .untitled {
+	
+	width: 530px;
+	height: 30px;
+	border: 1px solid lightgrey;
+	border-radius: 4px;
+	display: flex;
+	align-items: center;
+}
+
+.form2 {
+	width: 600px;
+	background-color: white;
+	border-color: white;
+	border-radius: 4px;
+	margin : 0 auto;
+	padding: 30px;
+
+}
+
+.form1 {
+	width: 600px;
+	background-color: white;
+	border-color: white;
+	border-radius: 4px;
+	margin : 0 auto;
+	padding: 30px;
+
+}

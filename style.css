@@ -6,4 +6,34 @@ html {
 
 body {
   font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  background-image: url(header.jpg);
+  background-size: 1200px 1000px;
+  background-repeat:no-repeat;
+  background-position: center;
+  margin: 0 0 40px 0;
 }
+
+.indexh3 {
+	color: white;
+	position: relative;
+  	text-align: center;
+  	top: 170px;
+  	word-wrap: break-word;
+
+}
+
+
+.btn-danger {
+	border-radius: 20px; 
+  cursor: pointer;
+	
+}
+
+.b1 {
+  display: flex; 
+  justify-content: center; 
+  position: relative;
+  top: 430px;
+}
+
